@@ -2,7 +2,7 @@
 
     // 0, 7, 8, -2, -2 -> 2           1, -7, 567, 89, 223-> 3
 
-void NumbersApNul(int kolvo)
+void NumbersUpNul(int kolvo)
 {
     Console.WriteLine();
     Console.WriteLine("Введите числа через Enter");
