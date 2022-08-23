@@ -16,4 +16,4 @@ void NumbersUpNul(int kolvo)
 }
 Console.Write("Задайте количество вводимых чисел, М = ");
 int M = Convert.ToInt32(Console.ReadLine());
-NumbersApNul(M);
+NumbersUpNul(M);
